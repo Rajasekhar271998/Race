@@ -1,2 +1,0 @@
-# Race
-Race Description
